@@ -1,7 +1,8 @@
 <template>
   <div class="hello">
-    <button>第一页</button>
-    <button>第二页</button>
+    <button>第1页</button>
+    <button>第2页</button>
+    <button>第3页</button>
   </div>
 </template>
 
